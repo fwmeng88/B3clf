@@ -43,9 +43,9 @@ git clone git@github.com:theochem/B3clf.git
 cd B3clf
 
 # install rdkit
-conda install -c rdkit rdkit>=2020.09.1.0
+conda install -c rdkit rdkit
 # install other dependencies
-# pip install -r requirements.txt
+pip install -r requirements.txt
 # or with
 # conda install --file requirements_conda.txt
 
